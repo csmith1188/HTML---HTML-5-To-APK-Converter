@@ -1,0 +1,89 @@
+Thanks to the new converter HTML 5 with most android devices is now a piece of cake! 
+
+Note: Before I tell you how to do it currently at the time of writing this I believe I set the android minimum to Android Oreo or 8.0 (not go edition) So you may want to change
+that for better compatibility if you wish. Keep in mind that realistically in terms of android phones today it's somewhat unlikely anyone is using an android version that's bellow
+5.0 or Android Lollipop. Hell I'd say that Android 8 takes that standard but just to be safe I'll say some may still be using lolipop. The standard you always want to shoot for is Android ICS (4.0) or more recently reccomended by google Android Jellybean (4.1-4.3).
+These are also Speified as API levels see the list bellow and judge for yourself!
+
+
+Android 1.0 (Decrypeted): First Android OS that's misserably outdated my todays standards but very impressive none the less.
+
+Android 1.5 Cupcake (Decrypeted): Android's first forray into dessert names with more up to date and solid OS components but still very outdated.
+
+Android 1.6 Donut (Decrypted): An even more solidly built version of cupcake with more customization I'd say but definately still very outdated.
+
+Android 2.0 - 2.1 Eclair (Decrypted): Android Eclair is the first truly good android OS that added a completely new design that still even
+today is unique.
+
+Android 2.2 Froyo (Decrypeted): Android Froyo is easily one of my favorite android OS's because not only is it not as outdated as you'd expect
+it's beautifly designed just like eclair and it gives more widgets and flash support to play around with.
+
+Android 2.3 -2.3.7 Gingerbread (Decrypeted): Android Gingerbread is Also one of my Favorite Android OS's because not only is it actually still somewhat useable
+if you have a usb cable but the design and top tier widgets is unlike anything I've ever seen in an OS.
+
+Android 3.0 - 3.2 Honeycomb (Decrypeted): Android Honeycomb besides android 11 is easily the worst android because not only did this come out for tablets only but,
+froyo and gingerbread worked fine on tablets so when this came it was just buggy and already outdated. Those cheap android tablets on amazon you find, I
+used one of them with honeycomb and let me tell you it is complete garbage, save data in my apps not restoring, overheating, constant app crahses, bad 
+performace. skip this one. Fun fact I played through Plants Versus Zombies 2 (best pvz game don't @ me) on it and when I got to the end it reset all of
+my progress. Fun!
+
+Android 4.0 - 4.0.7 Ice Cream Sandwhich (Decrypeted): Android Ice cream sandwhich as well as it successors are easily some of the most unique and fun Os's
+to mess with especially when you start to try to root it and mod it that will go just as miserably as trying to root android pie. It's really good and I honestly
+miss it so much that sometimes I'll boot up a Andrpoid four device or grab a launcher to use on my phone for it.
+
+Android 4.1 - 4.3 Jellybean: Android Jellybean to this day is still not decrypted and that just shows how great of an OS it is. It's A mix of Froyo's and gingerbread's fun
+with the solidity of android 4 and you have one of my favorite androids to this day that I still use. 
+
+Android 4.4 - 4.4W Kitkat / Kitkat Wear: Android Kitkat is also one of my favorite OS's because it's jellybean but better with more necesary and cool
+fixes like varity support on devices. Even my grandma ever since 2015 used android kitkat until she switched recently which is just proof that it's more solidly built.
+
+Android 5.0 - 5.1 Lollipop: Android Lollipop changed things up quite a bit it took  4 and changed up the UI and gave so much love to it. You can play a flappy bird clone
+built in to the device asa a secret where you avoid lollipops that's dedication. Love it one of my favorites too.
+
+Android 6.0 Marshmellow: Marshmellow is actually suprisingly only not much more than getting the job done. It's lollipop but with the charm changed a bit and youtube
+uses it as a minimum apk requirement still which goes to show it's good but it only get's the job done. 
+
+Android 7.0 - 7.1 Nougat/ Nougat Go: Code named New York Cheescake which I love this was just ment to feel more premium like the code name it's based off of and it's a better
+marshmellow because instead of charm it just focuses on feeling premium like a overhauled keyboard. Overall awesome.
+
+Android 8.0 - 8.1 Oreo/ Oreo Go: Android Oreo is such a special piece of work for me it's the thing that I used my whole life almost until I upgraded to pie, oreo is so
+good It perfects backwards compatibility with android apps, let's you run modern services, and so much more and it's even up to date still!
+
+Android 9.0 Pie: Android pie is an OS I use daily and it's essentially a mix of Nougat and oreo which with it brings more sustainable hardware and then you know why I 
+use it daily.
+
+Android 10 Quince Tary: Android 10 was very subjective for me when it was annouced because it got rid of it's dessert traditions and sticked to normal names which was 
+a awful idea but technically they didn't, because it's coded as quince tart which is a treat but still. Android 10 is supprisingly solid for being devicive it's a sleek
+charming fun modern OS that when I use it I have no problem with using reguardless if oreo's button, holo bar for pie, or new bar for quince tart is cool. But not 
+what I wanted.
+
+Android 11 Red Velvet Cake: Android 11 is my least favorite android because it's so buggy and can't perform half of the functions I want it to. At launch there were
+bugs and there still are. On my galaxy Tab A theres a bug where the internet will go off constantly and if you think that's bad there are worse bugs than that. What
+happened who thought it wasn't buggy? Either way people still use it for some reason including me probably for the android bc and battery.
+
+Android 12 Snowcone / V2: Android 12 snowcone is okay and it's what Android 11 should have been. Although people say it's buggy I haven't run into many problems with
+use and it works. It's just missing something and I don't know what.
+
+Android 13 Tiramisu: Android 13 is in beta right now so I can only give a first impression but oh my god it's not anything like the other android versions. It's new 
+unique, very slick looking and for a beta It's very bug free. 
+
+
+
+That's about it now for instructions on how to convert your html file to an apk it's simple:
+
+
+1) Go to HTML Converter\app\src\main\assets   and paste your html file in the space and your good to go and you can build the apk. 
+
+
+Done! But...
+
+2) If your html file uses multiple files be sure to go into mainActivity.java and change the directory to tell it to look into that folder you added.
+
+
+Side Note: RPG maker MV games won't run due to local assets not matching like their supposed to the same things happens on PC's locally. Also HTC's 
+widgets and home screen do not seem to like when you install this app on android jellybean just be aware of that. Every other OS comaptible workerd fine.
+
+
+Hope you all enjoy converting your html files! Thanks again to Easy tuto!
+
+  - Toby 
